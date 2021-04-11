@@ -1,4 +1,6 @@
-![react-native-app](https://user-images.githubusercontent.com/30902898/114314526-7499a200-9ad1-11eb-864b-a812a998f50a.gif)
+<h1 align="center">
+<img alt="react-native-app" title="#delicinha" src="https://user-images.githubusercontent.com/30902898/114314526-7499a200-9ad1-11eb-864b-a812a998f50a.gif" width="200px" />
+</h1>
 
 
 
