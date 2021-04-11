@@ -1,0 +1,54 @@
+{ 
+    "data": [
+        {
+            "id": 1,
+            "dia":"22 SEXTA",
+            "data":"22/09/2019",
+            "hora":"13h50",
+            "nome": "Almoço restaurante",
+            "tipo": "Alimentação",
+            "valor":100.97,
+            "reembolso":true
+        },
+        {
+            "id": 2,
+            "dia":"22 SEXTA",
+            "data":"22/09/2019",
+            "hora":"13h50",
+            "nome": "Almoço restaurante",
+            "tipo": "Alimentação",
+            "valor":50.75,
+            "reembolso":false
+        },
+        {
+            "id": 3,
+            "dia":"20 QUARTA",
+            "data":"20/09/2019",
+            "hora":"13h50",
+            "nome": "Almoço restaurante",
+            "tipo": "Alimentação",
+            "valor":100.98,
+            "reembolso":true
+        },
+        {
+            "id": 4,
+            "dia":"20 QUARTA",
+            "data":"20/09/2019",
+            "hora":"13h50",
+            "nome": "Almoço restaurante",
+            "tipo": "Alimentação",
+            "valor":50.47,
+            "reembolso":false
+        },
+        {
+            "id": 5,
+            "dia":"14 SEGUNDA",
+            "data":"14/09/2019",
+            "hora":"13h50",
+            "nome": "Almoço restaurante",
+            "tipo": "Alimentação",
+            "valor":100.57,
+            "reembolso":true
+        }
+    ]
+}
